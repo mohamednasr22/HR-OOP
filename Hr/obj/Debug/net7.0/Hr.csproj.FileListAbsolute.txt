@@ -1,0 +1,15 @@
+D:\projects\dot net core\Hr\Hr\bin\Debug\net7.0\Hr.exe
+D:\projects\dot net core\Hr\Hr\bin\Debug\net7.0\Hr.deps.json
+D:\projects\dot net core\Hr\Hr\bin\Debug\net7.0\Hr.runtimeconfig.json
+D:\projects\dot net core\Hr\Hr\bin\Debug\net7.0\Hr.dll
+D:\projects\dot net core\Hr\Hr\bin\Debug\net7.0\Hr.pdb
+D:\projects\dot net core\Hr\Hr\obj\Debug\net7.0\Hr.csproj.AssemblyReference.cache
+D:\projects\dot net core\Hr\Hr\obj\Debug\net7.0\Hr.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\dot net core\Hr\Hr\obj\Debug\net7.0\Hr.AssemblyInfoInputs.cache
+D:\projects\dot net core\Hr\Hr\obj\Debug\net7.0\Hr.AssemblyInfo.cs
+D:\projects\dot net core\Hr\Hr\obj\Debug\net7.0\Hr.csproj.CoreCompileInputs.cache
+D:\projects\dot net core\Hr\Hr\obj\Debug\net7.0\Hr.dll
+D:\projects\dot net core\Hr\Hr\obj\Debug\net7.0\refint\Hr.dll
+D:\projects\dot net core\Hr\Hr\obj\Debug\net7.0\Hr.pdb
+D:\projects\dot net core\Hr\Hr\obj\Debug\net7.0\Hr.genruntimeconfig.cache
+D:\projects\dot net core\Hr\Hr\obj\Debug\net7.0\ref\Hr.dll
