@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "deep train/1.0.0": {
+        "dependencies": {
+          "Hr": "1.0.0"
+        },
+        "runtime": {
+          "deep train.dll": {}
+        }
+      },
+      "Hr/1.0.0": {
+        "runtime": {
+          "Hr.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "deep train/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Hr/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Hr.Entities
 {
-    internal class Notifier : INotifier
+    public class Notifier : INotifier
     {
         public string SmtpServer { get; set; }
         public int  Port { get; set; }

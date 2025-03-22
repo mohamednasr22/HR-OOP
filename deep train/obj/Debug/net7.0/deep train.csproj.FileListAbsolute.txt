@@ -1,0 +1,22 @@
+D:\HR-OOP\deep train\bin\Debug\net7.0\Hr.deps.json
+D:\HR-OOP\deep train\bin\Debug\net7.0\Hr.runtimeconfig.json
+D:\HR-OOP\deep train\bin\Debug\net7.0\Hr.exe
+D:\HR-OOP\deep train\bin\Debug\net7.0\deep train.exe
+D:\HR-OOP\deep train\bin\Debug\net7.0\deep train.deps.json
+D:\HR-OOP\deep train\bin\Debug\net7.0\deep train.runtimeconfig.json
+D:\HR-OOP\deep train\bin\Debug\net7.0\deep train.dll
+D:\HR-OOP\deep train\bin\Debug\net7.0\deep train.pdb
+D:\HR-OOP\deep train\bin\Debug\net7.0\Hr.dll
+D:\HR-OOP\deep train\bin\Debug\net7.0\Hr.pdb
+D:\HR-OOP\deep train\obj\Debug\net7.0\deep train.csproj.AssemblyReference.cache
+D:\HR-OOP\deep train\obj\Debug\net7.0\deep train.GeneratedMSBuildEditorConfig.editorconfig
+D:\HR-OOP\deep train\obj\Debug\net7.0\deep train.AssemblyInfoInputs.cache
+D:\HR-OOP\deep train\obj\Debug\net7.0\deep train.AssemblyInfo.cs
+D:\HR-OOP\deep train\obj\Debug\net7.0\deep train.csproj.CoreCompileInputs.cache
+D:\HR-OOP\deep train\obj\Debug\net7.0\deep train.sourcelink.json
+D:\HR-OOP\deep train\obj\Debug\net7.0\deep train.csproj.CopyComplete
+D:\HR-OOP\deep train\obj\Debug\net7.0\deep train.dll
+D:\HR-OOP\deep train\obj\Debug\net7.0\refint\deep train.dll
+D:\HR-OOP\deep train\obj\Debug\net7.0\deep train.pdb
+D:\HR-OOP\deep train\obj\Debug\net7.0\deep train.genruntimeconfig.cache
+D:\HR-OOP\deep train\obj\Debug\net7.0\ref\deep train.dll
